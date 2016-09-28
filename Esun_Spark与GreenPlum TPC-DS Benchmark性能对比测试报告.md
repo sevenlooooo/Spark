@@ -26,6 +26,7 @@ Author： [@seven.loo][1]
   GP数据的存储格式为：Text+行存储
 
  - **总体测试结果对比**
+ 
  SQL优化前后的总体时间对比（All	Values	in	Seconds）
 ![image_1atat65m97t118tj160a10u26ct33.png-11.5kB][5]
 上图结果表明：
